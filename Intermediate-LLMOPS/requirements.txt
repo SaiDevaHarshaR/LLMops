@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+pypdf
+sentence-transformers
+weaviate-client
+llama-index-vector-stores-weaviate
