@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langfuse
+mlflow
+prometheus-client
+llama-index
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+llama-index-vector-stores-faiss
+pypdf
